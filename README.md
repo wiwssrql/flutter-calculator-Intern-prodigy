@@ -15,5 +15,3 @@ A simple calculator app built with **Flutter** as part of **Task 1** during my i
 ```bash
 flutter run
 
-![Screenshot (1115)](https://github.com/user-attachments/assets/1536cb53-19cb-4aa8-a949-06cbc21fd68e)
-
