@@ -14,3 +14,4 @@ A simple calculator app built with **Flutter** as part of **Task 1** during my i
 
 ```bash
 flutter run
+![Preview](Screenshot(1115).png)
