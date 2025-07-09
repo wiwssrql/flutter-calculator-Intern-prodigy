@@ -1,16 +1,16 @@
-# neo_calculator
+# 🧮 Neo Calculator
 
-A new Flutter project.
+A simple calculator app built with **Flutter** as part of **Task 1** during my internship as a **Mobile App Developer at Prodigy InfoTech**.
 
-## Getting Started
+## 📱 Features
+- Perform basic arithmetic operations: `+`, `−`, `×`, `÷`
+- Clean and responsive user interface
+- Built using Flutter widgets
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
+1. Clone this repository
+2. Run `flutter pub get`
+3. Launch the app with:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
