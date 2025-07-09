@@ -1,0 +1,23 @@
+name: pastel_calculator
+description: A pastel-themed calculator app in Flutter with sound
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^2.2.0
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    # - assets/sounds/click.mp3
